@@ -1,0 +1,72 @@
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: url(pokemonforest.jpg);
+}
+
+.container0 {
+    border: 2px solid #821d1d;
+    padding: 2px;
+    background-color: #c52b26;
+    height: 530px;
+    width: 300px;
+}
+
+.circle {
+    background-color: #2aa9fe;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.screen0 {
+    border: 8px solid #dedede;
+    background-color: #56abe1;
+    width: 250px;
+    height: 245px;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-left: 10px;
+    overflow-y: auto;
+}
+
+.screen2 {
+    border: 8px solid #dedede;
+    background-color: #56abe1;
+    width: 250px;
+    height: 45px;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.container1 {
+    background-color: #c52b26;
+    border: 2px solid #821d1d;
+    width: 300px;
+    height: 250px;
+    margin-bottom: 152px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.screen1 {
+    border: 8px solid #dedede;
+    width: 250px;
+    height: 200px;
+    overflow: hidden;
+    background-image: url(skypillartopclean.jpg);
+    background-size: contain;
+}
+
+.pokemon img {
+    max-width: 250px;
+    max-height: 200px;
+    margin-left: 35px;
+}
